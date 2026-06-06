@@ -1,0 +1,60 @@
+PAGE 1: Executive Overview
+
+KPIs:
+- Total Sales
+- Total Profit
+- Profit Margin %
+- Total Orders
+- Total Customers
+- Average Order Value
+
+Visuals:
+- Sales by Category
+- Profit by Category
+- Sales by Region
+- Profit by Region
+
+Filters:
+- Year
+- Region
+- Category
+
+--------------------------------
+
+PAGE 2: Customer Analytics
+
+Visuals:
+- Top 10 Customers by Sales
+- Top 10 Loss-Making Customers
+- Customer Segment Analysis
+
+Filters:
+- Year
+- Segment
+
+--------------------------------
+
+PAGE 3: Product Analytics
+
+Visuals:
+- Top 10 Products by Sales
+- Top 10 Loss-Making Products
+- Sales by Sub-Category
+- Profit by Sub-Category
+
+Filters:
+- Category
+- Sub-Category
+
+--------------------------------
+
+PAGE 4: Time Analysis
+
+Visuals:
+- Sales by Year
+- Profit by Year
+- Monthly Sales Trend
+- Shipping Days Analysis
+
+Filters:
+- Year
